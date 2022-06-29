@@ -1,0 +1,10 @@
+.footer{
+    background-color: black;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.footer p a{
+    color: magenta;
+}
